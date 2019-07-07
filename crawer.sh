@@ -6,7 +6,7 @@ FILE_2="CrawlBoardResult-2.txt"
 MD5_2="md5_2"
 FILE_3="CrawlBoardResult-3.txt"
 MD5_3="md5_3"
-URL="https://hooks.slack.com/services/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"
+URL="Webhook link"
 cd $DIR
 
 #if [ -e $FILE ]; then
